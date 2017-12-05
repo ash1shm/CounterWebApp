@@ -3,7 +3,7 @@ package example;
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
  
-public class AppTest2 {
+public class AppNewTest {
 
       public void testSlow() {
         System.out.println("slow");
