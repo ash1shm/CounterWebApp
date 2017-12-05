@@ -1,4 +1,2 @@
-# maven-spring-web-project
+# Web Counter App is a maven-spring-web-project
 Maven + Spring MVC Web Project Example
-
-Test change
