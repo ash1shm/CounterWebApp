@@ -20,10 +20,10 @@ Calculator myCalc = new Calculator();
       public void testFast() {
         System.out.println("fast-updated");
       }
-	
+/*	
 	@Test	
       public void testCalc() {
         assertEquals("Result", 9, myCalc.add());
       }
-	
+*/	
     }
