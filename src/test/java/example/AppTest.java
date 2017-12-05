@@ -2,12 +2,12 @@ package example;
 
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
-import com.qaagility.controller.Calculator;
+//import com.qaagility.controller.Calculator;
  
 
 public class AppTest {
 
-Calculator myCalc = new Calculator();
+//Calculator myCalc = new Calculator();
 
       public void testSlow() {
         System.out.println("slow");
