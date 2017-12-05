@@ -18,7 +18,7 @@ Calculator myCalc = new Calculator();
       }
 
       public void testFast() {
-        System.out.println("fast");
+        System.out.println("fast-updated");
       }
 	
 	@Test	
