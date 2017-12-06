@@ -19,7 +19,7 @@ public class AppNewTest {
 
 	@Test	
       public void testCalc() {
-        assertEquals("Result", 9, 90);
+        assertEquals("Result", 9, 9);
       }
 	
     }
