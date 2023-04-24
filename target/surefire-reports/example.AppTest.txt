@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: example.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.023 sec <<< FAILURE! - in example.AppTest
+initializationError(example.AppTest)  Time elapsed: 0.023 sec  <<< ERROR!
+java.lang.NoClassDefFoundError: LCalculator;
+Caused by: java.lang.ClassNotFoundException: Calculator
+
